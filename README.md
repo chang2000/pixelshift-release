@@ -24,6 +24,6 @@ As macOS evolves, the system's default wallpaper library continues to grow. This
 
 ## Feedback
 
-For any issues or suggestions, please [click here ↗](https://github.com/chang2000/pixelshift/issues) or [send us an email](mailto:wangtcalex@gmail.com).
+For any issues or suggestions, please [click here ↗](https://github.com/chang2000/pixelshift-release/issues) or [send us an email](mailto:wangtcalex@gmail.com).
 
 Enjoy your new wallpaper experience with PixelShift!
