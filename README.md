@@ -1,14 +1,14 @@
 # PixelShift - An Opinionated Wallpaper Switcher for macOS
 
-TLDR:
+[**DOWNLOAD**](https://github.com/chang2000/pixelshift-release/releases/latest)
+
+[**DEMO**](https://youtu.be/BSyzNuu0eMU)
+
+## TLDR
 
 PixelShift is a macOS app that enhances your experience by seamlessly switching between your favorite wallpapers.
 
 ![overview](assets/overview.png)
-
-## Demo
-
-https://youtu.be/BSyzNuu0eMU
 
 ## Usage
 
